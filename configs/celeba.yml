@@ -25,8 +25,8 @@ stage_len_dict2:
 image_size: 128
 load_gt_depth: false
 img_list_path: /content/GAN2Shape/list.txt
-img_root: /content/PanoHead/gan2shapeinput
-latent_root: /content/PanoHead/latents
+img_root: /content/drive/MyDrive/Output_3d_to_photo/Gan2Shape_input
+latent_root: /content/drive/MyDrive/Output_3d_to_photo/latents_generation
 
 ## model
 model_name: gan2shape_face
