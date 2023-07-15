@@ -24,9 +24,9 @@ stage_len_dict2:
 ## data
 image_size: 128
 load_gt_depth: false
-img_list_path: data/celeba/list_200-399.txt
-img_root: data/celeba
-latent_root: data/celeba/latents
+img_list_path: /content/GAN2Shape/list.txt
+img_root: /content/PanoHead/gan2shapeinput
+latent_root: /content/PanoHead/latents
 
 ## model
 model_name: gan2shape_face
